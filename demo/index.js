@@ -1,14 +1,5 @@
-# htmlToModelObject
-一个轻量级的JavaScript html文档解析器，将html文档转换为JavaScript对象
 
-## Install
-```js
-npm install html2object --save
-```
-## Usage
-
-```js
-const htmlToObject = require('html2object')
+const htmlToObject = require('../index.js')
 const htmlDocument = `<style>
     .app{
         font-size: 12px;
@@ -30,7 +21,4 @@ const htmlDocument = `<style>
     </a>
 </div>
 `
-const result = htmlToObject(htmlDocument)
-// 打印
-console.log(result)
-```
+console.log(htmlToObject(htmlDocument))

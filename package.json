@@ -1,0 +1,33 @@
+{
+  "name": "html-to-objects",
+  "version": "1.0.0",
+  "description": "一个轻量级的JavaScript html文档解析器，将html文档转换为JavaScript对象",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbCaiCai/htmlToModelObject.git"
+  },
+  "keywords": [
+    "javascript",
+    "html",
+    "object",
+    "parse",
+    "js",
+    "css",
+    "html parse",
+    "javascript parse",
+    "css parse",
+    "model",
+    "dom",
+    "dom parse"
+  ],
+  "author": "rbcaicai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rbCaiCai/htmlToModelObject/issues"
+  },
+  "homepage": "https://github.com/rbCaiCai/htmlToModelObject#readme"
+}
