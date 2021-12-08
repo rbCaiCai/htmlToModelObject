@@ -1,6 +1,6 @@
 {
   "name": "html-to-objects",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "一个轻量级的JavaScript html文档解析器，将html文档转换为JavaScript对象",
   "main": "index.js",
   "scripts": {
